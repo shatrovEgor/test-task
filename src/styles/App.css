@@ -1,0 +1,34 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+
+.container {
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    background-color: #c6ab94;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    overflow: hidden;
+}
+
+
+.css-1wc848c-MuiFormHelperText-root.Mui-error {
+    margin-top: 10px;
+    font-size: 14px;
+}
+
+.css-1gpxnp4 {
+    position: absolute;
+}
+
+#answer {
+    margin-top: 20px;
+    font-size: 18px;
+    width: 400px;
+    text-align: center;
+}
